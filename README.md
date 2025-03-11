@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/kaiwoch)
+![](https://leetcard.jacoblin.cool/kaiwoch?ext=activity)
 
 <!--
 **kaiwoch/kaiwoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
