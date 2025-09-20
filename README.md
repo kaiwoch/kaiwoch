@@ -1,16 +1,20 @@
+👋 Nihao everyone!
+I’m Kanzuba Artemiy, an Industrial Automation Engineer (ACS TP) with a focus on system administration in metallurgical production ⚙️🏭.
+
+📚 I used to read a lot of programming books, but nowadays I’m a bit tired of pure theory (and don’t have much time), so in my free time I just write code for fun 💻✨.
+
+🎮 Mostly, I enjoy creating console games — it really helps me relax 😌.
+
+🛠️ Tech stack:
+
+- Go (Golang) 🚀
+- Docker 🐳
+- Python 🐍
+- PostgreSQL 🐘
+- C++ ⚡️
+- Bash 🐚
+- Swagger 📖
+- Postman 📬
+(+ maybe something else, but that’s not so important 😅)
+
 ![](https://leetcard.jacoblin.cool/kaiwoch?ext=activity)
-
-<!--
-**kaiwoch/kaiwoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
